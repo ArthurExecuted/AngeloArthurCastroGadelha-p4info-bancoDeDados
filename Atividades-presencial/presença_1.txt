@@ -1,0 +1,4 @@
+a) São fatos em uma forma primária, que podem ser armazenados em algum meio.
+b) São os fatos organizados de maneira que tenham sentido. Dados colocados em contexto.
+c) É só um arquivo com sua informação organizada da maneira que comumente conhecemos. Porém, organizar e acessar dados como esses necessitam de muito esforço do cliente.
+d) Banco de dados tem como objetivo facilitar o gerenciamento de dados tirando do cliente a responsabilidade do acesso, da manipulação e da organização dos dados.
