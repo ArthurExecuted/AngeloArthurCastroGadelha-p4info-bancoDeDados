@@ -1,0 +1,2 @@
+Uma consulta pode acontecer com qualquer cliente, e com qualquer médico. Logo, uma Consulta é uma entidade associativa, 
+com Atributos como: Sintomas identificados, Nome do Cliente, Nome do Doutor, Local de Consulta e Data do Exame.

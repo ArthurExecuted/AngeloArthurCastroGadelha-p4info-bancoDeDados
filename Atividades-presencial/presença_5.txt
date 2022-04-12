@@ -1,0 +1,4 @@
+a) Cardinalidade Mínima: define se o relacionamento entre duas entidades é obrigatório ou não; Cardinalidade Máxima: define a quantidade máxima de ocorrências da Entidade que pode participar do Relacionamento. Deve ser maior que zero.
+b) Uma pessoa só pode ser Um cliente. (1:1)
+c) Um produto possui somente uma modalidade dele, mas Produtos possue diversas modalidades de produtos. (1:n)
+d) Um contrato pode ser celebrado por um ou vários clientes. Um cliente pode celebrar um ou vários contratos. (n:n)

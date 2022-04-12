@@ -1,0 +1,7 @@
+a) Aquele objeto que existe no mundo real com uma identificação distinta e com um significado próprio.
+b) A maneira que as entidades são relacionadas e organizadas dentro do Banco de dados.
+c) São as características que descrevem cada entidade dentro do domínio.
+d) Refina o conjunto de valores permitido para um atributo.
+e) Conjunto Entidade dividido em categorias, cada qual com atributos específicos.
+f) Entidades associativas associam as instâncias de diversos tipos de entidades.
+g) A Cardinalidade indica quantas ocorrências de uma Entidade participam no mínimo e no máxima do relacionamento.

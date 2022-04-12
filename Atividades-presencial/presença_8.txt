@@ -1,0 +1,12 @@
+a) Uma tabela é um conjunto não ordenado de linhas e cada linha possui um conjunto de campos. Cada campo tem um nome de 
+campo, e cada linha de uma tabela que tem o mesmo nome é uma coluna.
+b) É a coluna ou a combinação de colunas cujos valores distinguem uma linha das demais dentro de uma tabela.
+c) É uma coluna ou combinação de colunas, cujos valores aparecem necessariamente na chave primária de uma tabela.
+d) Em alguns casos mais de uma coluna ou grupo de colunas da tabela servem para identificar unicamente um registro. 
+Neste caso, uma das chaves é criada como chave primária e a outra, como alternativa.
+e) Quando uma tabela é definida, para cada coluna deve ser especificado o conjunto de valores que os campos podem assumir. Este conjunto de valores é chamado de domínio.
+f) especifica que um campo deve obedecer a definição de valores admitidos para a coluna.
+g) especifica se os campos de uma coluna podem ou não ser vazios.
+h) define que os valores da chave primária devem ser únicos.
+i) define que os valores dos campos que aparecem em uma chave estrangeira devem aparecer na chave primária da tabela 
+referenciada.

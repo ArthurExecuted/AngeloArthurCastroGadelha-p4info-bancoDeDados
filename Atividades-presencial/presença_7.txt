@@ -1,0 +1,2 @@
+Instâncias podem ser removidas ou alteradas ao longo do tempo, por isso pode ser do melhor interesse manter um registro 
+histórico das alterações.
