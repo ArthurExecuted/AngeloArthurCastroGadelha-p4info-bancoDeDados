@@ -1,0 +1,2 @@
+a) É um sistema de arquivos isolados para um único propósito ou parte do sistema completo.
+b) É o sistema completo trabalhando como um todo, cada parte do sistema acessando os dados que precisam de um só lugar.
